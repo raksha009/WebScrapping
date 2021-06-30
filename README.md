@@ -9,6 +9,9 @@ A web scraper that scrapes details of BatsMan of each team that played in an ipl
 3. FS: To create directories of each team
 4. XLXS: To create excel file for each Player
 
+### TechStack Used
+Nodejs, Expressjs
+
 ### Use
 1. Star the repository 
 2. Fork and Clone the repository on your system
